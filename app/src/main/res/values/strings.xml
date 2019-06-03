@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LoginTask</string>
+    <string name="First_Name">Firstname</string>
+    <string name="sun_exchange">Sun Exchange</string>
+    <string name="join">Join</string>
+    <string name="email">Email</string>
+    <string name="last_name">Last Name</string>
+    <string name="username">Username</string>
+    <string name="email_address">Email address</string>
+    <string name="pass_word">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="creaan_an_account">Create an account</string>
+    <string name="alraedy_have_an_account">Alraedy have an account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter password</string>
+
+    <string name="enter_email_or_username">Enter Email or Username</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="do_not_have_a_account">Do not have a account?</string>
+    <string name="sign_up">Sign Up</string>
+
+</resources>
